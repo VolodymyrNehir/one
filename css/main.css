@@ -1,0 +1,26 @@
+.header {
+    display: flex;
+    justify-content: space-around;
+}
+.footer {
+    width: 100%;
+    margin-left: 41%;
+}
+.gol form{
+display: flex;
+flex-direction:column;
+margin: 10px;
+}
+
+.go{
+    height: 4%;
+    width: 100%;
+    text-align:center;
+    display: none;
+}
+.gol{
+    display: flex;
+}
+.form{
+    width: 50%;
+}
